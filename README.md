@@ -52,6 +52,14 @@ spring.datasource.password=[password]
    ```
 4. Access the API at `http://localhost:8080`
 
+## Architecture
+
+Built using **layered architecture** with clear separation of concerns:
+- **Controllers** - Handle HTTP requests and responses
+- **Services** - Business logic and validation
+- **Repositories** - Data access layer with JPA
+- **Entities** - Domain models with inheritance (Book/Magazine extend Item)
+
 ## Project Structure
 
 ```
