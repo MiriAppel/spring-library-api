@@ -46,7 +46,7 @@ spring.datasource.password=[password]
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/[username]/library-management-system.git
+   git clone https://github.com/MiriAppel/library-management-system.git
    cd library-management-system
    ```
 2. Configure database connection in `application.properties`
