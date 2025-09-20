@@ -1,4 +1,4 @@
-# Library Management System
+# Spring Library API
 
 A REST API for managing library users, books, and magazines built with Spring Boot.
 
@@ -46,8 +46,8 @@ spring.datasource.password=[password]
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/MiriAppel/library-management-system.git
-   cd library-management-system
+   git clone https://github.com/MiriAppel/spring-library-api.git
+   cd spring-library-api
    ```
 2. Configure database connection in `application.properties`
 3. Run the application:
