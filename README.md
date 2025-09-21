@@ -73,3 +73,5 @@ src/main/java/com/example/SpringProject/
 ├── repositories/    # Data repositories
 └── services/        # Business logic
 ```
+
+<!-- Last updated: 2025 -->
